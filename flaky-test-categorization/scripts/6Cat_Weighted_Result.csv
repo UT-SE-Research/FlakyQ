@@ -1,0 +1,10 @@
+Classifier,Precision,Recall,fscore,total_support,feature_extraction_time,inference_time
+./weighted_avg_for_cv_BERT_inference.txt,.932,.922,.924,3195.0,132.62486245632171,0
+./weighted_avg_for_cv_DT-IDoFT_6Cat.txt,.934,.932,.931,3195.0,825.17380111217500,.0005372285842895507
+./weighted_avg_for_cv_GBM-IDoFT_6Cat.txt,.942,.942,.941,3195.0,825.71048889160156,.011329984664916992
+./weighted_avg_for_cv_KNN-IDoFT_6Cat.txt,.948,.943,.945,3195.0,828.27039685249328,.07570271492004394
+./weighted_avg_for_cv_LDA-IDoFT_6Cat.txt,.935,.932,.933,3195.0,824.60113945007325,.0022502422332763671
+./weighted_avg_for_cv_MLP-IDoFT_6Cat.txt,.947,.944,.945,3195.0,825.50449738502503,.0016412734985351562
+./weighted_avg_for_cv_NB-IDoFT_6Cat.txt,.937,.930,.931,3195.0,825.66158807277678,.011435532569885254
+./weighted_avg_for_cv_RF-IDoFT_6Cat.txt,.947,.947,.947,3195.0,824.48058509826659,.08689889907836914
+./weighted_avg_for_cv_SVC-IDoFT_6Cat.txt,.946,.944,.944,3195.0,826.42897841930388,.036244130134582519

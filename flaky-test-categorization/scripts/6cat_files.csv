@@ -1,0 +1,10 @@
+./weighted_avg_for_cv_BERT_inference.txt
+./weighted_avg_for_cv_Ada-IDoFT_6Cat.txt
+./weighted_avg_for_cv_DT-IDoFT_6Cat.txt
+./weighted_avg_for_cv_GBM-IDoFT_6Cat.txt
+./weighted_avg_for_cv_KNN-IDoFT_6Cat.txt
+./weighted_avg_for_cv_LDA-IDoFT_6Cat.txt
+./weighted_avg_for_cv_MLP-IDoFT_6Cat.txt
+./weighted_avg_for_cv_NB-IDoFT_6Cat.txt
+./weighted_avg_for_cv_RF-IDoFT_6Cat.txt
+./weighted_avg_for_cv_SVC-IDoFT_6Cat.txt

@@ -1,0 +1,7 @@
+Classifier,Precision,Recall,fscore,total_support,feature_extraction_time,inference_time
+../weighted_avg_for_cv_BERT-Flakicat_without_quantization.txt,.956,.954,.953,369.0,69.547118377685546,0
+../weighted_avg_for_cv_KNN-Flakicat_without_quantization.txt,.957,.954,.953,369.0,57.691169190406799,.012965011596679687
+../weighted_avg_for_cv_LR-Flakicat_without_quantization.txt,.956,.954,.953,369.0,60.317655110359192,.00138723850250244139
+../weighted_avg_for_cv_MLP-Flakicat_without_quantization.txt,.951,.950,.949,369.0,59.333282995224000,.0005674600601196289
+../weighted_avg_for_cv_RF-Flakicat_without_quantization.txt,.956,.954,.953,369.0,58.570850920677185,.04773051738739013
+../weighted_avg_for_cv_SVC-Flakicat_without_quantization.txt,.954,.952,.951,369.0,57.540216684341430,.0018762350082397460

@@ -1,0 +1,11 @@
+../per_Category_Evaluation_LR-IDoFT_6Cat.txt
+../per_Category_Evaluation_Ada-IDoFT_6Cat.txt
+../per_Category_Evaluation_SVC-IDoFT_6Cat.txt
+../per_Category_Evaluation_NB-IDoFT_6Cat.txt
+../per_Category_Evaluation_GBM-IDoFT_6Cat.txt
+../per_Category_Evaluation_LDA-IDoFT_6Cat.txt
+../per_Category_Evaluation_KNN-IDoFT_6Cat.txt
+../per_Category_Evaluation_MLP-IDoFT_6Cat.txt
+../per_Category_Evaluation_DT-IDoFT_6Cat.txt
+../per_Category_Evaluation_BERT-IDoFT_6Cat.txt
+../per_Category_Evaluation_RF-IDoFT_6Cat.txt

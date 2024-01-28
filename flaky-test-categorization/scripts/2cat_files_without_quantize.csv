@@ -1,0 +1,9 @@
+../weighted_avg_for_cv_BERTIDoFT_2Cat_without_quantize_inference.txt
+../weighted_avg_for_cv_NB-IDoFT_2Cat_without_quantize.txt
+../weighted_avg_for_cv_RF-IDoFT_2Cat_without_quantize.txt
+../weighted_avg_for_cv_KNN-IDoFT_2Cat_without_quantize.txt
+../weighted_avg_for_cv_SVC-IDoFT_2Cat_without_quantize.txt
+../weighted_avg_for_cv_MLP-IDoFT_2Cat_without_quantize.txt
+../weighted_avg_for_cv_GBM-IDoFT_2Cat_without_quantize.txt
+../weighted_avg_for_cv_DT-IDoFT_2Cat_without_quantize.txt
+../weighted_avg_for_cv_LR-IDoFT_2Cat_without_quantize.txt
